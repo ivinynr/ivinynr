@@ -28,7 +28,7 @@
 <img src="https://github.com/user-attachments/assets/d5319ce9-2038-4641-8645-0715bbc916d2" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iviny-let%C3%ADcia-nunes-ribeiro-23aa28296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- <a href = "mailto:ivinyleticianunes@gmail.com"><img src="https://img.shields.io/badge/ -D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href = "mailto:ivinyleticianunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- Languages -->
