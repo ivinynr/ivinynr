@@ -16,7 +16,7 @@
 <details>
   <summary> More about me</summary>
 
-  - 💬 I am 20 years old, currently living in Brazil. I have fluency in portuguese and french and have basic knowledge of SQL, Java, Javascript. 
+  - 💬 I am 20 years old, currently living in Brazil. I have fluency in portuguese and french and have basic knowledge of SQL, Java, Javascript, HTML, CSS, React. 
 
   - ✨ I enjoy watching movies, traveling and going to the beach! 
 </details>
