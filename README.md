@@ -23,6 +23,7 @@
      src="https://github.com/user-attachments/assets/d5319ce9-2038-4641-8645-0715bbc916d2"
      alt="ilustração de um computador"
      width="160"/>
+<br>
 
 Meu nome é <strong>Iviny Leticia</strong>.
 
